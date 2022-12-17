@@ -2,7 +2,7 @@ body {
   text-align: center;
   font-size: 20px;
   color: rgba(10,20,75,0.9);
-  background-image: linear-gradient(to bottom, #FFD580, #FFD580, white, #BCD4E6,#BCD4E6, white, lightgreen, lightgreen);
+  background-image: linear-gradient(to bottom, #FFD580, #FFD580, white, lightblue, white, lightgreen);
 }
 
 img {
